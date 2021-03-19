@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/intro_fragment">
+    <fragment
+        android:id="@+id/intro_fragment"
+        android:name="com.ruslan.assignment.view.main.ArticlesFragment">
+    </fragment>
+
+</navigation>
