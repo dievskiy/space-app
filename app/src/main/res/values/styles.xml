@@ -6,7 +6,6 @@
     </style>
 
     <style name="Text.Base" parent="">
-        <item name="android:textAlignment">center</item>
         <item name="android:textColor">@color/text</item>
     </style>
 
